@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1430551188 source:c:\users\stigmatized\cpp\cachesimulator\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<iomanip>
+	<cstdlib>
+	<cmath>
+	<sstream>
+	<bitset>
+
